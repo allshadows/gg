@@ -1,0 +1,17 @@
+<?xml version="1.0"?> 
+<!DOCTYPE squad SYSTEM "squad.dtd"> 
+<?xml-stylesheet href="squad.xsl?" type="text/xsl"?> 
+
+<squad nick="DD"> 
+<name>SQUAD CLASS</name> 
+<email>SQUAD E-MAIL ADDRESS</email> 
+<web>SQUAD WEB ADDRESS</web> 
+<picture>logo.paa</picture> 
+<title>DD</title> 
+<member id="USER ID" nick="shadoo"> 
+<name>FULL USER NAME</name> 
+<email>USER E-MAIL ADDRESS</email> 
+<icq>USER ICQ NUMBER</icq> 
+<remark>DESCRIPTION</remark> 
+</member> 
+</squad> 
