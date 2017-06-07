@@ -2,13 +2,13 @@
 <!DOCTYPE squad SYSTEM "squad.dtd"> 
 <?xml-stylesheet href="squad.xsl?" type="text/xsl"?> 
 
-<squad nick="DD"> 
+<squad nick=DD> 
 <name>SQUAD CLASS</name> 
 <email>SQUAD E-MAIL ADDRESS</email> 
 <web>SQUAD WEB ADDRESS</web> 
 <picture>logo.paa</picture> 
 <title>DD</title> 
-<member id="76561198120391786" nick="shadoo"> 
+<member id=76561198120391786 nick=shadoo> 
 <name>FULL USER NAME</name> 
 <email>USER E-MAIL ADDRESS</email> 
 <icq>USER ICQ NUMBER</icq> 
